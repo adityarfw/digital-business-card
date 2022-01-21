@@ -1,4 +1,4 @@
-# Scrimba Section 1 Solo Project
+# Scrimba-React Section 1 Solo Project
 
 ## Requirements
 
