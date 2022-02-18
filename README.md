@@ -8,7 +8,8 @@ Features Added:
 - Created Components for Info, About, Interests, Footer
 - Added functional social icons
 
-https://scrimba.com/learn/learnreact
-
 
 ![Screen Shot 2022-02-17 at 11 50 30 PM](https://user-images.githubusercontent.com/47574369/154619632-721d313d-dbd9-4208-ac75-f0afa17733c0.png)
+
+
+Learnt through [Scrimba](https://scrimba.com/learn/learnreact)
